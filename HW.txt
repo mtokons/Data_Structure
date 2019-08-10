@@ -1,0 +1,11 @@
+07.08.19
+
+1. Different Data type and their memory sizes
+
+2. Performance of data structure 
+			3 criteria 
+			Big(o) notation
+
+	singly link list
+	doubley link list
+			
